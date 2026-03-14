@@ -20,7 +20,7 @@ Program Python untuk menganalisis data suhu harian. Data disimpan dalam file CSV
 - Data otomatis tersimpan dalam file `data_cuaca.csv`
 
 ## Instalasi
-1. Pastikan Python 3 sudah terinstal.
+1. Python 3
 2. Install library yang diperlukan:
    ```bash
    pip install numpy matplotlib
